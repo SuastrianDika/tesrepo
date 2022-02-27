@@ -1,1 +1,2 @@
 # tesrepo
+# baca dulu
